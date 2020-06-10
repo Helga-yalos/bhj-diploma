@@ -1,0 +1,409 @@
+{
+  "users": [
+    {
+      "name": "demo",
+      "email": "demo@demo",
+      "password": "demo",
+      "id": "1",
+      "isAuthorized": false
+    },
+    {
+      "id": "129lx95fkkb70k6ci",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx93oskb70kqll",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9c4ckb70ks2t",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx96lgkb70m10g",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx97q8kb7zfd21",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx955skb7zfza3",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx93e8kb7zhqer",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx95g4kb7zk8md",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx95eokb7zqt5b",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9bv0kb7zsej3",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9918kb7zsq84",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx943kkb7zw8cu",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx95s0kb7zy1os",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9cbokb801f6s",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9cckkb806hn0",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9bmwkb809xax",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx92nokb80b8oh",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx91jwkb81fyf6",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9fwkb81o9qj",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx95ikkb81un4t",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx93z4kb81vcg1",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9b6ckb82244k",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9cm4kb82x8cu",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx962kkb832dyi",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx95mgkb83438l",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx963wkb837jiq",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9ad0kb83l92v",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9ywkb83lzgf",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9b04kb83mqvk",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx99kskb83s6ku",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx92j8kb83ui3m",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9blkkb83wgu1",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx98dckb849r1v",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9844kb84bltm",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9clgkb84eqja",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx97hgkb84ni5u",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx944okb84wr8z",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx94zckb8517tr",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx98k8kb853goc",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx97rskb8549n3",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx97q8kb85auji",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9ac0kb85gmy4",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx924kkb85h4g7",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx94lgkb85ko6f",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx97g0kb85loti",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9c1okb85o1u0",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx98o4kb85pzcj",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx99mokb85sy3k",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx98h8kb85y3x1",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx92p8kb85z3sw",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx96kokb860v19",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9688kb861r1l",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx970ckb8635me",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx938wkb865g5p",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx99agkb866hby",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx98dskb86awdh",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9acskb86d8oi",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9bb8kb86e6ul",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9l4kb86fjrv",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx969wkb86inva",
+      "isAuthorized": true
+    },
+    {
+      "id": "129lx9bqokb92ashk",
+      "isAuthorized": true
+    }
+  ],
+  "accounts": [
+    {
+      "name": "Банк",
+      "user_id": "1",
+      "id": "1"
+    },
+    {
+      "name": "Магазин",
+      "user_id": "1",
+      "id": "2"
+    },
+    {
+      "name": "Бизнес",
+      "user_id": "1",
+      "id": "3"
+    }
+  ],
+  "transactions": [
+    {
+      "account_id": "1",
+      "created_at": "2019-09-15 10:24:02",
+      "id": "1",
+      "name": "Кредит",
+      "sum": 5000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "1",
+      "created_at": "2019-09-17 15:53:02",
+      "id": "2",
+      "name": "Баланс на дебетовке",
+      "sum": 3200,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "1",
+      "created_at": "2019-09-19 20:12:02",
+      "id": "3",
+      "name": "Копилка",
+      "sum": 1500,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-26 16:23:02",
+      "id": "4",
+      "name": "Молочные продукты",
+      "sum": 100,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-25 15:03:02",
+      "id": "5",
+      "name": "Фрукты",
+      "sum": 250,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-25 15:03:02",
+      "id": "17",
+      "name": "Овощи",
+      "sum": 300,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-26 14:47:02",
+      "id": "6",
+      "name": "Мясо",
+      "sum": 600,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "2",
+      "created_at": "2019-09-27 13:27:02",
+      "id": "7",
+      "name": "Долг в банк",
+      "sum": 5000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-10-15 13:27:02",
+      "id": "9",
+      "name": "На банду",
+      "sum": 15000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-09-17 13:27:02",
+      "id": "10",
+      "name": "На стволы",
+      "sum": 6000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-12-27 13:27:02",
+      "id": "11",
+      "name": "Прибыль с банка",
+      "sum": 1500000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2018-01-15 13:27:02",
+      "id": "12",
+      "name": "Прибыль с магазина",
+      "sum": 300000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2018-01-15 13:27:02",
+      "id": "13",
+      "name": "Подарок сизого",
+      "sum": 20000,
+      "type": "income",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-09-15 13:27:02",
+      "id": "14",
+      "name": "На охрану",
+      "sum": 60000,
+      "type": "expense",
+      "user_id": "1"
+    },
+    {
+      "account_id": "3",
+      "created_at": "2017-10-15 13:27:02",
+      "id": "15",
+      "name": "На бумер",
+      "sum": 300000,
+      "type": "expense",
+      "user_id": "1"
+    }
+  ]
+}
