@@ -13,12 +13,13 @@ class AsyncForm {
    * через registerEvents()
    * */
   constructor( element ) {
-    this.element = element;
+    
     if (this.element == '') {
       throw new Error('Ошибка');
-    } else {
+    } 
+    this.element = element;
     this.registerEvents();
-    }
+    
   }
 
   /**
@@ -47,24 +48,24 @@ for (let item of entries) {
    * }
    * */
   getData() {
-   const input = Array.from(this.element.querySelectorAll('input'));
+    const formData = new FormData(this.element);
+    let modifiedData = {};
+    let entries = formData.entries();
+    for (let [key, value] of entries) {
+      modifiedData[key] = value;
+    }
+    console.log(modifiedData);
+    return modifiedData;
+  /* const input = Array.from(this.element.querySelectorAll('input'));
     let data = {};
     console.log(data);
     for (let i = 0; i < input.length; i ++) {
         data[`${input[i].name}`] = `${input[i].value} `;
     }
     console.log(data);
-    return data;
-    /*const formData = new FormData(this.element);
-    let entries = formData.entries();
-    console.log(formData);
-    let modifiedData;
-    for ( let item of entries) {
-      modifiedData +=`${item[0]}: ${item[1]}; `;
-    }
-    return modifiedData;*/
+    return data;*/
 
-  }
+}
 
   onSubmit(options)  {
 
@@ -75,7 +76,7 @@ for (let item of entries) {
    * данные, полученные из метода getData()
    * */
   submit() {
-    this.onSubmit(this.getData());
-    //this.onSubmit({'data' : this.getData()});
+   // this.onSubmit(this.getData());
+    this.onSubmit({'data' : this.getData()});
   }
 }
